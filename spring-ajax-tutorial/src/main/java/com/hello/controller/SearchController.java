@@ -1,4 +1,4 @@
-package com.mkyong.controller;
+package com.hello.controller;
 
 import com.mkyong.model.AjaxResponseBody;
 import com.mkyong.model.SearchCriteria;
