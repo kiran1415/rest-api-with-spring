@@ -1,4 +1,4 @@
-package com.mkyong.model;
+package com.hello.model;
 
 import java.util.List;
 
