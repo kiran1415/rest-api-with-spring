@@ -1,4 +1,4 @@
-package com.mkyong.services;
+package com.hello.services;
 
 import com.mkyong.model.User;
 import org.springframework.stereotype.Service;
